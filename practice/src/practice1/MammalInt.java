@@ -7,17 +7,12 @@ public class MammalInt implements Animal{
 	}
 	public void travel(){
 		System.out.println("Mammal travels");
-	}
-
+		System.out.println("test one");
 	
-		public static void main (String args [] ){
-				MammalInt m = MammalInt();
-				m.eat();
-				m.travel();
-		}
-		private static MammalInt MammalInt() {
-			// TODO Auto-generated method stub
-			return null;
+	}
+	
 		}
 		
-	}
+		
+		
+	
